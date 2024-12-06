@@ -7,3 +7,7 @@ This project aims to use the generic Agent-based Modeling Architecture (GAMA) to
 
 + Ecosystem Marin
 This project aims to use gama to simulate the interaction s between agents (different species of fish) in sea
+
++ Propagation Insectes
+
+Simulation insectes agent in a Agriculture farm
